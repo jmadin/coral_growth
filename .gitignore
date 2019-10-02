@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+# Unnecessary old files, but keeping locally.
+analysis_orig.R
+doc/
+data_circularity.csv
+growth_plots.r
+growth_const_incr.pdf
+tagged*.csv
+functions_orig.R
+outlines/

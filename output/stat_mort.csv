@@ -1,0 +1,23 @@
+V1,param,Estimate,Std. Error,t value,Pr(>|t|)
+Acropora hyacinthus,Intercept,-1.186,0.32,-3.704,0
+Acropora hyacinthus,Slope,-1.112,0.327,-3.404,0.001
+Acropora cytherea,Intercept,-0.688,0.243,-2.831,0.006
+Acropora cytherea,Slope,-0.917,0.263,-3.488,0.001
+Acropora intermedia,Intercept,-0.463,0.516,-0.897,0.374
+Acropora intermedia,Slope,-0.62,0.352,-1.763,0.085
+Acropora robusta,Intercept,-0.8,0.33,-2.426,0.017
+Acropora robusta,Slope,-0.668,0.277,-2.41,0.018
+Acropora cf digitifera,Intercept,-1.943,0.319,-6.082,0
+Acropora cf digitifera,Slope,-0.728,0.221,-3.301,0.001
+Acropora humilis,Intercept,-1.727,0.617,-2.796,0.006
+Acropora humilis,Slope,-0.551,0.361,-1.523,0.131
+Acropora spathulata,Intercept,-1.911,0.637,-2.999,0.004
+Acropora spathulata,Slope,-1.084,0.449,-2.414,0.018
+Acropora nasuta,Intercept,-1.335,0.783,-1.705,0.091
+Acropora nasuta,Slope,-0.592,0.55,-1.076,0.285
+Acropora millepora,Intercept,-1.082,0.856,-1.264,0.211
+Acropora millepora,Slope,-0.516,0.521,-0.989,0.327
+Goniastrea retiformis,Intercept,-3.042,0.407,-7.475,0
+Goniastrea retiformis,Slope,-1.271,0.224,-5.668,0
+Goniastrea pectinata,Intercept,-1.85,0.671,-2.758,0.007
+Goniastrea pectinata,Slope,-0.669,0.31,-2.157,0.034

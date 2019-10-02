@@ -1,0 +1,12 @@
+V1,param,Value,Std. Error,t value,Pr(>|t|)
+Acropora hyacinthus,Intercept,0.066,0.006,11.673,0
+Acropora cytherea,Intercept,0.096,0.018,5.293,0
+Acropora intermedia,Intercept,0.044,0.011,4.083,0
+Acropora robusta,Intercept,0.049,0.01,4.925,0
+Acropora cf digitifera,Intercept,0.019,0.004,4.419,0
+Acropora humilis,Intercept,0.018,0.003,6.288,0
+Acropora spathulata,Intercept,0.033,0.004,7.677,0
+Acropora nasuta,Intercept,0.024,0.002,10.517,0
+Acropora millepora,Intercept,0.024,0.003,7.148,0
+Goniastrea retiformis,Intercept,0.014,0.002,6.702,0
+Goniastrea pectinata,Intercept,0.014,0.004,3.487,0.001
